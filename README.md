@@ -68,6 +68,7 @@ Feel free to reach out, collaborate, or discuss exciting projects!
 - 🔗 **LinkedIn:** [linkedin.com/in/boniphace-mkindi-469912b4/](https://www.linkedin.com/in/boniphace-mkindi-469912b4/)
 - 🐦 **Twitter/X:** [@boniphacemkindi](https://x.com/boniphacemkindi)
 - 📧 **Email:** boniphacemkindi@gmail.com
+- 📱 Phone: [+44 7415037156](tel:+447415037156)
 
 ---
 
