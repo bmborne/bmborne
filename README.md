@@ -4,10 +4,18 @@
 I'm a passionate **Data Science Enthusiast** with over **5 years of experience** in **Telecommunications and Data Engineering**. I specialize in transforming complex data into actionable insights and building AI-driven solutions to solve real-world problems.
 
 ### 🌟 Highlights:
-- **Current Role:** System Administrator and Backend Developer at TTCL.
+- **Current Role:** Studying MLOPS and NLP
 - **Skills:** Python, R, SQL, Machine Learning, Big Data, Cloud Computing.
 - **Certifications:** AWS Certified Data Analytics, TensorFlow Developer, Google Cloud Engineer.
 - **Education:** MSc Data Science at the University of Surrey (2024-2026).
+
+---
+
+## Professional Highlights
+- **Telecom Expertise**: Improved network performance and billing systems for major telecom providers.
+- **Automation**: Developed scripts and tools to reduce billing errors by 30% and enhance operational efficiency.
+- **Leadership**: Managed multi-branch IT security projects, improving surveillance and access control systems.
+- **Education & Research**: Engaged in academic and practical research, including evolutionary algorithms and bio-inspired AI.
 
 ---
 
@@ -52,3 +60,13 @@ Feel free to reach out, collaborate, or discuss exciting projects!
 - 🔗 **LinkedIn:** [linkedin.com/in/boniphace-mkindi-469912b4/](https://www.linkedin.com/in/boniphace-mkindi-469912b4/)
 - 🐦 **Twitter/X:** [@boniphacemkindi](https://x.com/boniphacemkindi)
 - 📧 **Email:** boniphacemkindi@gmail.com
+
+---
+
+### Fun Fact
+When I am not analyzing data or coding, I enjoy learning about cutting-edge AI technologies and sharing knowledge with the data science community. I also have a knack for simplifying complex problems and finding practical solutions.
+
+---
+
+### Let's Collaborate!
+I'm open to collaborating on projects in **data science**, **machine learning**, and **web development**. If you share a similar passion, feel free to reach out or contribute to any of my repositories. Let's turn data into impactful solutions together! 🚀
