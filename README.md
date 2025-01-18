@@ -43,6 +43,14 @@ Here are some featured projects that showcase my expertise:
 - **Big Data & Cloud:** Apache Kafka, AWS, GCP.
 - **DevOps:** Kubernetes, Docker, CI/CD.
 
+### Technical Skills
+ - **Data Science & Mathematics:**
+Data Visualization • Machine Learning • Data Analytics • Artificial Intelligence (AI) • Supervised Learning • Neural Networks • Deep Learning • Ensemble Learning • Feature Engineering • Probability • Statistics • Time-Series Analysis and Forecasting
+ - **Python libraries:**
+NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • TensorFlow • Keras
+ - **Languages & Others:**
+Python • SQL (Postgres) • JavaScript/HTML/CSS • Data Structures & Algorithms
+
 ---
 
 ## 🎓 Certifications
