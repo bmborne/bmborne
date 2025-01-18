@@ -4,7 +4,7 @@
 I'm a passionate **Data Science Enthusiast** with over **5 years of experience** in **Telecommunications and Data Engineering**. I specialize in transforming complex data into actionable insights and building AI-driven solutions to solve real-world problems.
 
 ### 🌟 Highlights:
-- **Current Role:** Studying MLOPS and NLP
+- **Currently:** Studying MLOPS and NLP
 - **Skills:** Python, R, SQL, Machine Learning, Big Data, Cloud Computing.
 - **Certifications:** AWS Certified Data Analytics, TensorFlow Developer, Google Cloud Engineer.
 - **Education:** MSc Data Science at the University of Surrey (2024-2026).
