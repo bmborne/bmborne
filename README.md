@@ -7,7 +7,7 @@ I'm a passionate **Data Science Enthusiast** with over **5 years of experience**
 - **Currently:** Studying MLOPS and NLP
 - **Skills:** Python, R, SQL, Machine Learning, Big Data, Cloud Computing.
 - **Certifications:** AWS Certified Data Analytics, TensorFlow Developer, Google Cloud Engineer.
-- **Education:** MSc Data Science at the University of Surrey (2024-2026).
+- **Education:** MSc Data Science at the University of Surrey, United Kingdome (England) (2024-2026).
 
 ---
 
