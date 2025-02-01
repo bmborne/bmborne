@@ -37,7 +37,7 @@ Here are some featured projects that showcase my expertise:
 ---
 
 ## 🌟 Skills
-- **Programming:** Python, R, SQL, Bash.
+- **Programming:** Python, C++, R, SQL, Bash.
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn.
 - **Visualization:** Power BI, Tableau, Matplotlib.
 - **Big Data & Cloud:** Apache Kafka, AWS, GCP.
