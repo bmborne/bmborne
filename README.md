@@ -5,7 +5,7 @@ I'm a passionate **Data Scientist** with over **5 years of experience** in **Tel
 
 ### 🌟 Highlights:
 - **Currently:** Studying MLOPS and NLP
-- **Skills:** Python, R, SQL, Machine Learning, Big Data, Cloud Computing.
+- **Skills:** Python, C++, R, SQL, Machine Learning, Big Data, Cloud Computing.
 - **Certifications:** AWS Certified Data Analytics, TensorFlow Developer, Google Cloud Engineer.
 - **Education:** MSc Data Science at the University of Surrey, United Kingdome (England) (2024-2026).
 
