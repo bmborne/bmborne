@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Boniphace Mkindi!
 
 ## 🚀 About Me
-I'm a passionate **Data Science Enthusiast** with over **5 years of experience** in **Telecommunications and Data Engineering**. I specialize in transforming complex data into actionable insights and building AI-driven solutions to solve real-world problems.
+I'm a passionate **Data Scientist** with over **5 years of experience** in **Telecommunications and Data Engineering**. I specialize in transforming complex data into actionable insights and building AI-driven solutions to solve real-world problems.
 
 ### 🌟 Highlights:
 - **Currently:** Studying MLOPS and NLP
