@@ -1,81 +1,64 @@
-# 👋 Hi, I'm Boniphace Mkindi!
+# Boniphace Mkindi
 
-## 🚀 About Me
-I'm a passionate **Data Scientist** with over **8 years of experience** in **IT & Telecommunications and Data Engineering**. I specialize in transforming complex data into actionable insights and building AI-driven solutions to solve real-world problems.
+**Data & Analytics Engineer** building public-safe reference work in finance analytics, Microsoft Fabric, ERP reporting and applied AI.
 
-### 🌟 Highlights:
-- **Currently:** Data Science @ DiscoverIE PLC
-- **Skills:** Python, C++, R, SQL, Machine Learning, Big Data, Cloud Computing.
-- **Certifications:** AWS Certified Data Analytics, TensorFlow Developer, Google Cloud Engineer.
-- **Education:** MSc Data Science at the University of Surrey, United Kingdome (England) (2024-2026).
+I help finance and operations teams get clearer reporting from Power BI, ERP data and Microsoft tools.
+
+📍 Guildford, Surrey, United Kingdom
 
 ---
 
-## Professional Highlights
-- **Telecom Expertise**: Improved network performance and billing systems for major telecom providers.
-- **Automation**: Developed scripts and tools to reduce billing errors by 30% and enhance operational efficiency.
-- **Leadership**: Managed multi-branch IT security projects, improving surveillance and access control systems.
-- **Education & Research**: Engaged in academic and practical research, including evolutionary algorithms and bio-inspired AI.
+## Focus
+
+- **Finance analytics** — P&L, variance, forecast, MTD/YTD and management reporting
+- **Microsoft data platform** — Power BI, semantic models, Microsoft Fabric concepts
+- **ERP & business applications** — Dynamics 365 Business Central–style reporting, validation and UAT support
+- **Applied AI & governance** — opportunity assessment, forecasting concepts, controls
 
 ---
 
-## 📂 My Projects
-Here are some featured projects that showcase my expertise:
+## Current work
 
-### 1. **Twitter Sentiment Analysis Dashboard**
-- **Description:** Analyzes real-time Twitter sentiments using NLP techniques.
-- **Tech Stack:** Python, BERT, Streamlit.
-- **Result:** Achieved 85% accuracy in sentiment classification.
-- **[View Repository](#)**
+**Data Engineer — Finance Analytics & Business Applications** · discoverIE Group plc · Sep 2025 – Present  
+Supporting group finance analytics, Power BI modelling, ERP reporting support and evaluation of Microsoft Fabric / applied AI opportunities.
 
-### 2. **Customer Churn Prediction**
-- **Description:** Predicts churn for telecom customers and provides actionable insights.
-- **Tech Stack:** Python, Tableau, XGBoost.
-- **Result:** Reduced churn rates by 20% with targeted interventions.
-- **[View Repository](#)**
+**MSc Data Science** · University of Surrey · expected Sep 2026
 
 ---
 
-## 🌟 Skills
-- **Programming:** Python, C++, R, SQL, Bash.
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn.
-- **Visualization:** Power BI, Tableau, Matplotlib.
-- **Big Data & Cloud:** Apache Kafka, AWS, GCP.
-- **DevOps:** Kubernetes, Docker, CI/CD.
+## Public evidence
 
-### Technical Skills
- - **Data Science & Mathematics:**
-Data Visualization • Machine Learning • Data Analytics • Artificial Intelligence (AI) • Supervised Learning • Neural Networks • Deep Learning • Ensemble Learning • Feature Engineering • Probability • Statistics • Time-Series Analysis and Forecasting
- - **Python libraries:**
-NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • TensorFlow • Keras
- - **Languages & Others:**
-Python • SQL (Postgres) • JavaScript/HTML/CSS • Data Structures & Algorithms
+Portfolio (Home + Work evidence library):
 
----
+**[bmborne.github.io](https://bmborne.github.io/)** · **[Work](https://bmborne.github.io/work.html)** · **[CV (PDF)](https://bmborne.github.io/assets/Boniphace_Mkindi_CV_2026.pdf)**
 
-## 🎓 Certifications
-- **AWS Certified Data Analytics – Specialty**
-- **Google Professional Data Engineer**
-- **TensorFlow Developer Certificate**
-- **NVIDIA Deep Learning Institute Badges**
+Published public-safe cases include:
+
+| Area | Case |
+|------|------|
+| Finance Analytics | [Synthetic multi-entity finance analytics](https://bmborne.github.io/work/finance-reporting.html) |
+| Data Platforms | [Fabric finance analytics path](https://bmborne.github.io/work/fabric-finance-path.html) |
+| ERP & Business Apps | [ERP reporting & Business Central support](https://bmborne.github.io/work/erp-business-apps.html) |
+| Applied AI | [AI opportunity assessment](https://bmborne.github.io/work/ai-opportunity.html) |
+| Engineering research | [Telecom anomaly detection (MSc)](https://bmborne.github.io/work/telecom-anomaly.html) |
+
+All demos use **synthetic / public-safe** data. No employer dashboards or internal systems are published.
 
 ---
 
-## 🌐 Let's Connect!
-Feel free to reach out, collaborate, or discuss exciting projects!
+## Currently developing
 
-- 🌐 **Website:** [bmborne.github.io](https://bmborne.github.io/)
-- 🔗 **LinkedIn:** [linkedin.com/in/boniphace-mkindi-469912b4/](https://www.linkedin.com/in/boniphace-mkindi-469912b4/)
-- 🐦 **Twitter/X:** [@boniphacemkindi](https://x.com/boniphacemkindi)
-- 📧 **Email:** boniphacemkindi@gmail.com
-- 📱 Phone: [+44 7415037156](tel:+447415037156)
+- **PL-300** — Power BI Data Analyst Associate  
+- **DP-600** — Fabric Analytics Engineer Associate  
+- **FMVA** — Financial Modeling & Valuation Analyst  
 
 ---
 
-### Fun Fact
-When I am not analyzing data or coding, I enjoy learning about cutting-edge AI technologies and sharing knowledge with the data science community. I also have a knack for simplifying complex problems and finding practical solutions.
+## Connect
 
----
+- **Website:** [bmborne.github.io](https://bmborne.github.io/)
+- **LinkedIn:** [linkedin.com/in/boniphacemkindi](https://www.linkedin.com/in/boniphacemkindi/)
+- **Email:** boniphacemkindi@gmail.com
+- **Writing:** [LinkedIn newsletter](https://www.linkedin.com/newsletters/daily-ai-data-science-decoded-7443613810793476096/)
 
-### Let's Collaborate!
-I'm open to collaborating on projects in **data science**, **machine learning**, and **web development**. If you share a similar passion, feel free to reach out or contribute to any of my repositories. Let's turn data into impactful solutions together! 🚀
+Open to conversations about Power BI, Microsoft Fabric, finance analytics, ERP reporting, business applications and applied AI.
