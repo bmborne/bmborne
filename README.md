@@ -22,7 +22,7 @@ I help finance and operations teams get clearer reporting from Power BI, ERP dat
 **Data Engineer — Finance Analytics & Business Applications** · discoverIE Group plc · Sep 2025 – Present  
 Supporting group finance analytics, Power BI modelling, ERP reporting support and evaluation of Microsoft Fabric / applied AI opportunities.
 
-**MSc Data Science** · University of Surrey · expected Sep 2026
+**MSc Data Science** · University of Surrey ·
 
 ---
 
